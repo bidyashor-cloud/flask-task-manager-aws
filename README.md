@@ -147,7 +147,7 @@ To further enhance scalability, automation, and security, the following improvem
 ---
 
 ## 📁 **Repository Structure**
-
+```
 ├── README.md # Project documentation
 ├── docs/ # Technical documentation
 │ ├── architecture.md # System architecture details
@@ -158,7 +158,7 @@ To further enhance scalability, automation, and security, the following improvem
 ├── infrastructure/ # AWS setup scripts/configs
 ├── screenshots/ # Infrastructure diagrams and screenshots
 └── videos/ # Application demo videos
-
+```
 ---
 
 ## 👤 **Developer**
