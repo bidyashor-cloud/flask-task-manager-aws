@@ -148,16 +148,18 @@ To further enhance scalability, automation, and security, the following improvem
 
 ## 📁 **Repository Structure**
 ```
-├── README.md # Project documentation
-├── docs/ # Technical documentation
-│ ├── architecture.md # System architecture details
-│ ├── deployment.md # Step-by-step deployment guide
-│ └── troubleshooting.md # Common issues and fixes
-├── src/ # Flask application source code
-│ └── app.py # Flask app with connection pooling
-├── infrastructure/ # AWS setup scripts/configs
-├── screenshots/ # Infrastructure diagrams and screenshots
-└── videos/ # Application demo videos
+📦 flask-task-manager-aws/
+├──  README.md                   # Project documentation
+├──  docs/                       # Technical documentation
+│   ├──  architecture.md         # System architecture details
+│   ├──  deployment.md           # Step-by-step deployment guide
+│   └──  troubleshooting.md      # Common issues and fixes
+├──  src/                        # Flask application source code
+│   └──  app.py                  # Flask app with connection pooling
+├──  infrastructure/             # AWS setup scripts/configs
+├──  screenshots/                # Infrastructure diagrams and screenshots
+└──  videos/                     # Application demo videos
+
 ```
 ---
 
