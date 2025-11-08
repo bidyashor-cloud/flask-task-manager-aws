@@ -150,10 +150,6 @@ To further enhance scalability, automation, and security, the following improvem
 ```
 📦 flask-task-manager-aws/
 ├──  README.md                   # Project documentation
-├──  docs/                       # Technical documentation
-│   ├──  architecture.md         # System architecture details
-│   ├──  deployment.md           # Step-by-step deployment guide
-│   └──  troubleshooting.md      # Common issues and fixes
 ├──  src/                        # Flask application source code
 │   └──  app.py                  # Flask app with connection pooling
 ├──  infrastructure/             # AWS setup scripts/configs
@@ -165,9 +161,10 @@ To further enhance scalability, automation, and security, the following improvem
 
 ## 👤 **Developer**
 
-**Bidyashor Chingtham**  
-📧 [bidyashorchingtham12345@gmail.com](mailto:bidyashorchingtham12345@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bidyashor-chingtham)
+**Bidyashor Chingtham** 
+📫 **Contact:** [bidyashorchingtham12345@gmail.com](mailto:bidyashorchingtham12345@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/bidyashor-chingtham](https://www.linkedin.com/in/bidyashor-chingtham)
+
 
 ---
 
