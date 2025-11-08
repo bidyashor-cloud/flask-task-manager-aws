@@ -52,7 +52,6 @@ The architecture follows industry best practices for **high availability**, **co
 
 ## 🏛️ **Architecture Diagram**
 
-> *(Add your architecture image here — e.g. in `screenshots/architecture.png`)*  
 > `![AWS Architecture Diagram](screenshots/architecture.png)`
 
 ---
