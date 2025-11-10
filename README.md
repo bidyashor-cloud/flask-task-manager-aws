@@ -1,9 +1,5 @@
 # 🚀 Flask Task Manager — AWS Multi-Tier Architecture
 
-## 🎬 **Demo Preview**
-
-🎥 [Watch Demo video (MP4)](videos/flask-demo.mp4)
-
 ---
 
 ## 🏗️ **Enterprise-Grade Web Application on AWS**
@@ -130,6 +126,36 @@ The architecture follows industry best practices for **high availability**, **co
 - ✅ **Cost Optimization:** 60% cheaper vs. RDS Proxy configuration  
 - ✅ **Production Ready:** End-to-end monitoring and secure deployment  
 - ✅ **Scalable Design:** Compatible with Auto Scaling Groups  
+
+---
+
+## 🎬 **Application Demo Video**
+
+### 📹 Complete Application Walkthrough
+
+**🎥 Demo Video Available:**
+- 📁 **Download:** [aws-flask-application-demo.mp4](videos/aws-flask-application-demo.mp4) *(52.9 MB)*  
+- ℹ️ **Note:** Click **“Download”** to view — GitHub cannot preview large MP4 files.
+
+---
+
+### 🎯 **Video Demonstrates**
+
+- ✅ End-to-end deployment of the **Flask Task Manager** on AWS  
+- ✅ **Application Load Balancer (ALB)** distributing traffic across multiple EC2 instances  
+- ✅ **RDS MySQL** connectivity validation with live status  
+- ✅ **Health and detailed health endpoints** (`/health`, `/detailed-health`) verifying system performance  
+- ✅ **Multi-tier AWS architecture** in action — VPC, ALB, EC2, and RDS  
+- ✅ **Real-time database response times** and connection pooling performance  
+- ✅ **Session Manager integration** for secure administrative access  
+- ✅ Fully operational **production-ready Flask dashboard** displaying live metrics and system health  
+
+---
+
+**⏱️ Duration:** Full architecture and application walkthrough  
+**📊 Quality:** HD resolution with clear narration and workflow explanation  
+
+*💡 For the best viewing experience, download and play the video locally in HD mode.*
 
 ---
 
