@@ -153,7 +153,7 @@ To further enhance scalability, automation, and security, the following improvem
 *Complete AWS infrastructure deployment showing all resources in production.*
 
 ### 🌐 Network Architecture
-![VPC and Subnets](screenshots/02-vpc and subnets.png)
+![VPC and Subnets](screenshots/02-vpc-and-subnets.png)
 *Multi-AZ VPC configuration with public and private subnets for high availability.*
 
 ### ⚖️ Load Balancing
