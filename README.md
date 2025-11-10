@@ -146,6 +146,47 @@ To further enhance scalability, automation, and security, the following improvem
 
 ---
 
+## 📸 **Infrastructure Screenshots**
+
+### 🏗️ AWS Console Overview
+![AWS Console Overview](screenshots/01-aws-console-overview.png)
+*Complete AWS infrastructure deployment showing all resources in production.*
+
+### 🌐 Network Architecture
+![VPC and Subnets](screenshots/02-vpc and subnets.png)
+*Multi-AZ VPC configuration with public and private subnets for high availability.*
+
+### ⚖️ Load Balancing
+![Load Balancer Configuration](screenshots/03-load-balancer-config.png)
+*Application Load Balancer setup with cross-zone load balancing.*
+
+![Target Group Health](screenshots/04-target-group-health.png)
+*Target group health checks showing healthy EC2 instances.*
+
+### 🖥️ Compute Resources
+![EC2 Instance](screenshots/05-ec2-instance.png)
+*Flask application server running on EC2 with optimized configuration.*
+
+### 🗄️ Database Layer
+![RDS Database](screenshots/06-rds-database.png)
+*MySQL RDS instance with connection pooling and automated backups.*
+
+### 🔒 Security Configuration
+![ALB Security Group](screenshots/07-security-groups-alb.png)
+*Application Load Balancer security group — internet-facing tier.*
+
+![EC2 Security Group](screenshots/08-security-groups-ec2.png)
+*EC2 security group — application tier with restricted access.*
+
+![Database Security Group](screenshots/09-security-groups-database.png)
+*RDS security group — data tier with database-only access.*
+
+---
+
+*📁 View all screenshots in the [screenshots folder](screenshots/).*
+
+---
+
 ## 📁 **Repository Structure**
 ```
 📦 flask-task-manager-aws/
@@ -159,12 +200,12 @@ To further enhance scalability, automation, and security, the following improvem
 ```
 ---
 
-## 👤 **Developer**
+## 📫 **Connect with Me**
 
-**Bidyashor Chingtham** 
-📫 **Contact:** [bidyashorchingtham12345@gmail.com](mailto:bidyashorchingtham12345@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/bidyashor-chingtham](https://www.linkedin.com/in/bidyashor-chingtham)
-
+**Bidyashor Chingtham**  
+- 🌐 **LinkedIn:** [linkedin.com/in/bidyashor-chingtham](https://www.linkedin.com/in/bidyashor-chingtham)  
+- 📧 **Email:** [bidyashorchingtham12345@gmail.com](mailto:bidyashorchingtham12345@gmail.com)  
+- 🐙 **GitHub:** [github.com/bidyashor-cloud](https://github.com/bidyashor-cloud)
 
 ---
 
